@@ -26,8 +26,10 @@ To define a classification task, the default threshold for binary recognition wa
 AI-Friendly performed with accuracy 100%, thus being able to "squeeze" the information that a simple logistic regression wasn't able to extract, see figure below
 
 <img src="gallery/results.png">
+<sub>
 <i><b>LEFT:</b> ROC-Curve of the random hypothesis (yellow, AUC=50%), a logistic regression (light-blue,AUC=99%) and AI-friendly (dark-blue, AUC=100%).
 <br>
 <b>MIDDLE:</b> Output weights per category for the neural network (i.e. AI-Friendly)
 <br>
-  <b>RIGHT:</b> Training metrics for the neural network (i.e. AI-Friendly); concluding that there was no overfitting can be supported by the observed relatively small training-validation gap</i>
+<b>RIGHT:</b> Training metrics for the neural network (i.e. AI-Friendly); concluding that there was no overfitting can be supported by the observed relatively small training-validation gap</i>
+</sub>
