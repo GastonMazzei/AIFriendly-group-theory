@@ -8,7 +8,7 @@ To generate the database and fit a neural network that generates the results, pl
 bash generator.sh
 ```
 
-<br><br>
+<br>
 
 <br><i>Based on <a href="https://arxiv.org/abs/2011.00871">this</a> paper</i><br>
 
